@@ -21,6 +21,8 @@ public class JavaApplication1 {
         
         System.out.println("brenao gostosao");
         
+        System.out.print("quem commitou antes paga a coca");
+        
     }
     
 }
