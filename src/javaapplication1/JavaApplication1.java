@@ -16,6 +16,8 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         System.out.println("akwpdkaw");
+        
+        System.out.println("higao gostosao");
     }
     
 }
