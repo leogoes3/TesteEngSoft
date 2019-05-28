@@ -23,6 +23,8 @@ public class JavaApplication1 {
         
         System.out.print("quem commitou antes paga a coca");
         
+        System.out.println("Quero pão com patê de frango");
+        
     }
     
 }
